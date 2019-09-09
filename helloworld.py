@@ -1,4 +1,5 @@
 print('bryan')
+import random
 temp_1 = random.randint(0,100)
 temp_2 = random.randint(0,100)
 print(temp_1)
